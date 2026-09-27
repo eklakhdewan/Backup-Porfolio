@@ -13,7 +13,7 @@ links?.querySelectorAll('a').forEach((link) => {
   });
 });
 
-const revealItems = document.querySelectorAll('.section-heading, .project-card, .case-study, .timeline-item, .skill-group, .credentials-grid article, .contact-form, .resume-card');
+const revealItems = document.querySelectorAll('.section-heading, .project-card, .case-study, .timeline-item, .skill-group, .credentials-grid article, .mini-card, .contact-form, .resume-card');
 const observer = new IntersectionObserver((entries) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
