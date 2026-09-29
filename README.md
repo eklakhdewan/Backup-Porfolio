@@ -15,7 +15,7 @@ An accessible, performance-first portfolio for Eklakh Dewan, an AI Systems Engin
 
 - One-page portfolio site with About, Experience, Projects/Case Studies, Skills, Education, Certifications, and Contact.
 - Print-friendly structure for saving the page as a resume/one-pager PDF.
-- Four evidence-aware case studies: Enterprise RAG, AI Job Agent, TaxTrace, and APX.
+- Five evidence-aware case studies: Enterprise RAG, AI Job Agent, TaxTrace, AI Job Recommendation, and APX.
 - Hiring-oriented contact CTA with the verified email and professional profile links from the source document.
 - Profile portrait and source-document project screenshots in `public/me.png` and `public/evidence/`.
 - Direct Formspree contact form, résumé view/download actions, light/dark theme toggle, and a broader project directory.
